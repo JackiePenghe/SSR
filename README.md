@@ -107,3 +107,5 @@ bash ssr.sh
 ![image.png](http://upload-images.jianshu.io/upload_images/6245842-e5b70e039cb0b0d5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 输入7即可根据需要自己修改配置了。怎么样，很简单吧。
 不过服务器这东西一般人还是很难拥有的。感谢阅读。
+
+SSR客户端百度网盘下载链接：[https://pan.baidu.com/s/1mhLPJZU](https://pan.baidu.com/s/1mhLPJZU)
