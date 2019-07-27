@@ -19,14 +19,12 @@
 Ubuntu 16以上
 ```terminal
 apt install wget
-
-```terminal
-Ubuntu 16之前
 ```
+Ubuntu 16之前
+```terminal
 apt-get install wget
 ```
 CentOS
-
 ```terminal
 yum -y install wget
 ```
