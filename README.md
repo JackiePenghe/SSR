@@ -113,4 +113,4 @@ bash ssr.sh
 输入7即可根据需要自己修改配置了。怎么样，很简单吧。
 不过服务器这东西一般人还是很难拥有的。感谢阅读。
 
-SSR客户端百度网盘下载链接：[https://pan.baidu.com/s/1mhLPJZU](https://pan.baidu.com/s/1mhLPJZU)
+SSR客户端百度网盘下载链接：[https://pan.baidu.com/s/1mhLPJZU](链接:https://pan.baidu.com/s/1n4-bhlDaQH23RAY5u1HL2w)  密码:k8j4
