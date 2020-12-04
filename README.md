@@ -83,9 +83,11 @@ bash ssr.sh
 不需要，直接回车
 
 ![image.png](http://upload-images.jianshu.io/upload_images/6245842-b11c869d20319366.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 这个回车之后就会有一大堆乱七八糟的东西，等一等，让它自己配置。结束之后如图：
 
 ![image.png](http://upload-images.jianshu.io/upload_images/6245842-a0f12abc144bf3ac.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 为了保密，我把IP，SS和SSR链接P掉了。毕竟我的服务器只是一个很小的服务器，不敢拿出来共享。在此说一声抱歉。
 # 三.配置加速
 这一步其实可以不要。但是为了从此之后不再忧心与SSR服务器的重启（服务器重启后SSR服务会被关闭，需要重新手动启动）和SSR代理网络速度更快，推荐大家往下看。
